@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 {a..z}{a..z} | tr   n | grep -v oo
+=======
+{a..z}{a..z} | tr ' ' '\n' | grep -v oo
+>>>>>>> 39ad2c762a8a8c4b3fb36aeac41575f3ba98f37e
